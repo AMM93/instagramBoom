@@ -7,7 +7,7 @@
  </a>
 <div align="center">
   <a href="https://github.com/AMM93/instagramBoom">
-    <img src="images/instagram.jpeg" alt="Logo" width="160" height="120">
+    <img src="images/instagram.jpeg" alt="Logo" width="150" height="100">
   </a>
  </div>
   

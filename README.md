@@ -45,7 +45,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Antonio Moreno Martín - ant.moreno.martin@gmail.com
 
-Project Link: [https://github.com/AMM93/Instaboom)
+Project Link: [https://github.com/AMM93/instagramBoom)
 
 
 

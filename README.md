@@ -3,11 +3,11 @@
  <div align="right">
  <a href="https://github.com/AMM93/instagramBoom">
    <a href="https://github.com/AMM93/instagramBoom">
-   <img src="images/instagram.jpg" alt="Logo" width="120" height="120">
+   <img src="images/Foto_perfilred.png" alt="Logo" width="120" height="120">
  </a>
 <div align="center">
   <a href="https://github.com/AMM93/instagramBoom">
-    <img src="images/instagram.jpg" alt="Logo" width="120" height="80">
+    <img src="images/instagram.jpeg" alt="Logo" width="120" height="80">
   </a>
  </div>
   
